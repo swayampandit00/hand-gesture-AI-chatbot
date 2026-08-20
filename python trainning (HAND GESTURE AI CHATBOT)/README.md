@@ -71,6 +71,14 @@ hand-gesture-chatbot/
     └── helpers.py                # Utility functions
 ```
 
+## 📸 Project Showcase
+
+Here are some sample photos from the `photo` folder:
+
+![Gesture 0](photo/0.jpg)
+![Gesture 1](photo/1.jpg)
+![Gesture 2](photo/2.jpg)
+
 ## 📋 Step-by-Step Installation Guide
 
 ### Step 1: Clone the Repository
@@ -350,10 +358,3 @@ For issues and questions:
 **Happy coding! 🚀**
 
 **Python Version:** 3.9 to 3.12
-
-
-
-
-
-
-python 3.9 to 3.12
